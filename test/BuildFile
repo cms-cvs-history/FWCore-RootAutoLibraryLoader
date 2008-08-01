@@ -1,6 +1,5 @@
 <environment>
 <use name=boost>
-<use name=cppunit>
 </environment>
 <bin name=testFWCoreRootAutoLibraryLoader file=stdnamespaceadder_t.cppunit.cpp>
   <use name=cppunit>
